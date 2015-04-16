@@ -24,6 +24,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'active-fedora'
   spec.add_dependency 'rmagick'
-  spec.add_dependency 'activesupport', '>= 3.2.13', '< 5.0'
+  spec.add_dependency 'activesupport', '>= 3.2.12', '< 5.0'
 end
 
